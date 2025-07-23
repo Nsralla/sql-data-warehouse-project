@@ -19,6 +19,13 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
+### Data Warehous Architecture 
+<img width="1477" height="765" alt="image" src="https://github.com/user-attachments/assets/af492410-1f15-4e3d-985b-c5f52b48fdff" />
+
+
+
+
+---
 
 ### BI: Analytics & Reporting (Data Analytics)
 
