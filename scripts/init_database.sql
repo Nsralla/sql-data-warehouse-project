@@ -5,7 +5,7 @@ GO
 -- check if database datawarehouse exists, drop it if yes
 IF EXISTS (SELECT name from sys.databases where name = N'DataWarehouse')
 Begin
-	Truncate DATABASE DataWarehouse;
+	DROP DATABASE DataWarehouse;
 END
 GO
 
