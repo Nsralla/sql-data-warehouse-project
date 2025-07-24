@@ -23,7 +23,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 <img width="1477" height="765" alt="image" src="https://github.com/user-attachments/assets/af492410-1f15-4e3d-985b-c5f52b48fdff" />
 
 ---
-### Notion file link: [https://www.notion.so/PySpark-23677d71c46480f98382c7b47bdfce7e](https://www.notion.so/SQL-Data-Warehouse-Project-23877d71c464805d8e61fec024aaad4a)
+### Notion file link: https://www.notion.so/SQL-Data-Warehouse-Project-23877d71c464805d8e61fec024aaad4a?source=copy_link
 
 
 ---
