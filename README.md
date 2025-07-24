@@ -22,7 +22,8 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ### Data Warehous Architecture 
 <img width="1477" height="765" alt="image" src="https://github.com/user-attachments/assets/af492410-1f15-4e3d-985b-c5f52b48fdff" />
 
-
+---
+### Notion file link: https://www.notion.so/PySpark-23677d71c46480f98382c7b47bdfce7e
 
 
 ---
